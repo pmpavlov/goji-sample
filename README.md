@@ -1,4 +1,4 @@
-# Gogi Project :)
+# Goji Project :)
 
 ## Overview
 
