@@ -32,6 +32,14 @@ Follow these steps to use the Terraform scripts:
     ```
 
 6. After applying changes, you can manage your Docker containers using Docker Desktop.
+7. Command to used to provide human-readable output from a state or plan file.
+   ```sh
+   terraform show
+   ``` 
+8. Command for a convenient way to destroy all remote objects managed by a particular Terraform configuration.
+   ```sh
+   terraform destroy
+   ``` 
 
 ## Troubleshooting
 
